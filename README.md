@@ -228,3 +228,14 @@ do_page_fault() #2: sending SIGSEGV to prudynt for invalid write access to
 epc = 774e0dcc in prudynt[774b4000+5e000]
 ra  = 774e29c8 in prudynt[774b4000+5e000]
 ```
+
+
+
+
+
+
+Links
+
+https://www.youtube.com/watch?v=kNYplyluP4s
+
+https://www.youtube.com/watch?v=mso8R_k_qw8
