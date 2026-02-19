@@ -3,6 +3,8 @@
 ![ISP](./images/ImageSignalProcessor.png)
 ![ISP](./images/isp_pipeline.png)
 ![ISP](./images/isp_pipeline2.png)
+![ISP](./images/isp_pipeline6.png)
+
 
 
 
